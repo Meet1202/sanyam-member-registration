@@ -1,0 +1,16 @@
+.border-red{
+    border-color: rgb(220 38 38);;
+}
+.mt-5{
+    margin-top: 5px !important;
+}
+
+.title{
+    margin-top: -150px;
+}
+
+@media screen and (max-width: 992px) {
+    .title{
+        margin-top: -130px;
+    }
+  }

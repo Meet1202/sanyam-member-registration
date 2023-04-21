@@ -1,0 +1,19 @@
+.register{
+    margin-top: 10%;
+}
+img{
+    height: 250px;
+}
+h1{
+    font-size: larger;
+}
+
+@media screen and (max-width: 992px) {
+    .register{
+        margin-top: 50%;
+    }
+    img{
+        height:50%;
+        width:50%;
+    }
+  }

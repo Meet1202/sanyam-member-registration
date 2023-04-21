@@ -28,9 +28,12 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.scss",
+              "src/tailwind_css_config.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/js/init-alpine.js"
+            ]
           },
           "configurations": {
             "production": {
